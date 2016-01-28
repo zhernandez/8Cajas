@@ -1,0 +1,17 @@
+div{
+	border:solid #33eeaa 2px;
+	background-color: #33ffaa;
+	margin: 10px;
+	height: 100px;
+	width: 100px;
+}
+.dentro{
+	display:inline-block;
+}
+.lado{
+	display: inline-block;
+}
+.padre{
+	width:380px;
+	height:120px;
+}
